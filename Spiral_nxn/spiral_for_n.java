@@ -52,12 +52,6 @@ public class spiral_for_n {
                 System.out.println("\nLeft");
                 printTable();
             }
-//            for (int i = maxRow - 1; i > minRow; i--) {
-//                spiral[i][minCol+1] = x;
-//                x++;
-//                System.out.println("\nDon't know");
-//                printTable();
-//            }
 
 
             minCol++;
