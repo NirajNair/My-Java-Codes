@@ -65,13 +65,6 @@ public class spiral_for_n {
             maxCol--;
             maxRow--;
         }
-
-        //for (int i =0; i<spiral.length; i++){
-        //    for (int j= 0; j<spiral.length; j++){
-        //        System.out.print(spiral[i][j] + " ");
-        //    }
-        //    System.out.println();
-        //}
     }
 
     public static void printTable() {
